@@ -6,10 +6,10 @@ export default {
     outDir: '../dist',
     rollupOptions: {
       input: {
-        contact: resolve(__dirname, 'src/contact.html'),
-        main: resolve(__dirname, 'src/index.html'),
-        topics: resolve(__dirname, 'src/topics.html'),
-        topic: resolve(__dirname, 'src/topic.html')
+        contact: path.resolve(__dirname, 'src/contact.html'),
+        main: path.resolve(__dirname, 'src/index.html'),
+        topics: path.resolve(__dirname, 'src/topics.html'),
+        topic: path.resolve(__dirname, 'src/topic.html')
       }
     }
   },

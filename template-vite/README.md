@@ -1,12 +1,16 @@
-# Bootstrap w/ Vite
+# TemplateMo + Bootstrap 5 + Vite
 
-Include [Bootstrap](https://getbootstrap.com)'s source Sass and individual JavaScript plugins with [Vite](https://vitejs.dev/).
+TemplateMo + [Bootstrap](https://getbootstrap.com) + [Vite](https://vitejs.dev/)
 
 ## How to use
 Install
 ```sh
 cd project/dir/
 npm install
+```
+Start
+```sh
+npm start
 ```
 Build
 ```sh
