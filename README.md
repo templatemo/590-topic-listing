@@ -1,15 +1,22 @@
-# Topic Listing Template
+# About us
+Unofficial templates collection from TemplateMo.
 
-- [Live View](https://templatemo.com/live/templatemo_590_topic_listing)
-- [Download](https://templatemo.com/download/templatemo_590_topic_listing)
-- [Full-size Screenshot](https://templatemo.com/screenshots/full-template-590-topic-listing.jpg)
-- [HTML Templates](https://www.tooplate.com/free-templates)
+## Topic Listing Template
 
-## About Template
+[Live View](https://templatemo.com/live/templatemo_590_topic_listing) | 
+[Download](https://templatemo.com/download/templatemo_590_topic_listing) | 
+[Full-size Screenshot](https://templatemo.com/screenshots/full-template-590-topic-listing.jpg) | 
+[HTML Templates](https://www.tooplate.com/free-templates)
 
 Topic Listing includes 4 HTML pages for home, listing, detail and contact. Homepage features many sections such as search bar, content tabs, timeline, accordion, etc. This layout used Teal or DarkCyan color gradients. It is easy to modify with the use of Bootstrap 5 CSS library.
 
-Tags: [education](https://templatemo.com/tag/education), [bootstrap-5](https://templatemo.com/tag/bootstrap-5), [digital-marketing](https://templatemo.com/tag/digital-marketing), [green](https://templatemo.com/tag/green), [multi-page](https://templatemo.com/tag/multi-page), [timeline](https://templatemo.com/tag/timeline)
+Tags: 
+[education](https://templatemo.com/tag/education), 
+[bootstrap-5](https://templatemo.com/tag/bootstrap-5), 
+[digital-marketing](https://templatemo.com/tag/digital-marketing), 
+[green](https://templatemo.com/tag/green), 
+[multi-page](https://templatemo.com/tag/multi-page), 
+[timeline](https://templatemo.com/tag/timeline)
 
 ## Screenshot
 
